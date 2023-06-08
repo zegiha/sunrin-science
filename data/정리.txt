@@ -1,0 +1,73 @@
+1차적 모색 (A Locus)
+Ay (Sable) : 전신 황색 (일부 개체는 등, 꼬리, 귀 등에 흑색 있음)
+aw (Wolf Grey) : 황색 바탕에 전체적으로 흑색이 퍼짐 (잿빛 모색)
+at (Black & Tan) : Tan Point라고 불리는 곳에만 황색 (네눈박이 모색)
+a (Recessive Black) : 전신 흑색
+
+2차 (E Locus)
+Em (Masks) : 주둥이, 귀, 앞가슴, 꼬리 등에 흑색을 더함
+Eg / Eh(Grizzle/Domino) : 특정 품종에서만 나타나는 현상
+E (Normal Extension) : 아무 짓도 안함
+e (Recessive Red) : 모든 유멜라닌(Eumelanin)을 페오멜라닌(Phaeomelanin)으로 전환시킴. 즉, A-Locus에서 결정된 어떤 모색이라도 전신의 모색이 황색으로 바뀜.
+
+3차 (K Locus)
+K (Solid Black) : 기존 모색에 상관없이 전신을 흑색으로 다시 칠함
+Kbr(Brindle) : 기존 모색에서 황색 부분에 검은 줄무늬를 만듬
+k (Non- Solid Black) : 아무 짓도 안함
+
+B Locus
+B (Normal) : 기존의 흑색을 유지
+b (Liver) : Black → Liver(적색계열로 바꿈)
+
+D Locus
+D (Non-Dilute) : 기존의 Black/Liver 유지
+d (Dilute) : Black/Liver → Blue/Isabella
+
+M Locus
+MM : 유전자 조합이 이루어지면 대부분의 모색이 백색
+M (Merle) : 모색의 특정 부분을 밝은 색깔로 전환
+m (Non-Merle) : 변화 없음
+
+H Locus (위와 같음 아래도 포함)
+Merle을 여러가지 형태로 한번 더 바꾸어 주는 유전자위 입니다.
+
+I Locus
+황색의 밝기를 조절
+
+C Locus
+유전자위에서 발생하는 돌연변이에 의해 바로 알비노 개체
+
+G Locus
+시간이 지남에 따라 어두운 색이 밝은 색으로 변하는 현상
+G (Progressive Greying) : Dark Color → Light
+g (Normal) : 변함없음
+
+S Locus
+S (No white) : 흰색 반점 없음
+sp(Piebald) : 전신의 절반 이상에 커다란 흰색 무늬를 만듬
+si(Irish spotting) : 주둥이, 앞가슴, 발끝, 꼬리에 흰색 반점을 만듬
+
+T Locus
+T (Ticking) : 흰색 바탕에 유색의 작은 얼룩이나 반점을 만듬
+Tr(Roan) : Ticking 보다 좀더 얼룩이 빽빽함
+t(No Ticking) : 얼룩 없음
+
+출처: 풍산개 복실이: 개의 모색(털색깔) 유전
+
+각 부위마다 변수로 나눔
+mouth
+ear
+back
+tail
+frontCheast
+endFoot
+all
+another
+stain
+
+부위의 숫자로 색을 정함
+1 = black
+2 = brouwn
+3 = grey
+4 = liver (적색)
+5 = merle (검은색, 회청색, 회색등이 섞여있음)
